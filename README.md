@@ -1,8 +1,18 @@
-### em progresso!!
+ #
+<div>
+  <h1 align="center">Olá, eu sou Matheus  🤙🤙 </h1>
+  <h3 align="center">Estatístico e Cientista de dados</h3>
+</div>
 
-opaA
+
   
   #
+<h3>Sobre mim</h3>
+ 
+  
+ - 📚 Bacharel em Estatística (UnB)
+ - 🔍 Atualmente trabalhando como assitente de pesquisa
+ - 📖 Sempre aprendendo
   
 
 
