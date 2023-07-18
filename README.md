@@ -11,7 +11,7 @@
  
   
  - 📚 Bacharel em Estatística (UnB)
- - 🔍 Atualmente trabalhando como assitente de pesquisa
+ - 🔍 Atualmente trabalhando como assistente de pesquisa
  - 📖 Sempre aprendendo
   
 
