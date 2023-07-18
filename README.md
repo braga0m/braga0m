@@ -11,8 +11,8 @@ opa
 
 <div align = "center">
 <a href="https://github.com/braga0m/github-readme-stats">
-<img height= 150 align="left" src="https://github-readme-stats.vercel.app/api?username=braga0m&show_icons=true&theme=dark"/>
-<img height= 150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braga0m&hide_progress=true&theme=dark&layout=compact&langs_count=8&card_width=320"/>  
+<img height= "150em" align="left" src="https://github-readme-stats.vercel.app/api?username=braga0m&show_icons=true&theme=dark"/>
+<img height= "150em" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=braga0m&hide_progress=true&theme=dark&layout=compact&langs_count=8&card_width=320"/>  
 
 <br>
 <br>
