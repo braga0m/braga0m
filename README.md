@@ -10,11 +10,9 @@
 <h3>Sobre mim</h3>
  
   
- - 📚 Bacharel em Estatística (UnB)
- - 📚 Mestrando em Estatística (UnB)
- - 🔍 Atualmente trabalhando como assistente de pesquisa
- - 📖 Sempre aprendendo
-  
+ - 📚 Bacharelado em Estatística (UnB).
+ - 📚 Mestrando em Estatística (UnB).
+ - 🔍 Atualmente trabalhando assistente técnico na auditoria do INEP.
 
 
 <h3>Estatísticas do Github</h3>
