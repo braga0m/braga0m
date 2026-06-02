@@ -11,7 +11,7 @@
  
   
  - 📚 Bacharelado em Estatística (UnB).
- - 📚 Mestrando em Estatística (UnB).
+ - 📚 Mestre em Estatística (UnB).
  - 🔍 Atualmente trabalhando assistente técnico na auditoria do INEP.
 
 
