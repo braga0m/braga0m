@@ -14,7 +14,7 @@
  - 📚 Mestre em Estatística (UnB).
  - 🔍 Atualmente trabalhando assistente técnico na auditoria do INEP.
 
-
+<!--
 <h3>Estatísticas do Github</h3>
 <br> 
 
@@ -36,7 +36,7 @@
 
 <br>
 <br>
-
+-->
   ##
 <div> 
   <a href="https://www.linkedin.com/in/mbragam/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
